@@ -83,7 +83,7 @@ I'm a passionate Software Developer and AI/ML Engineer with a strong foundation 
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <a href="https://leetcode.com/u/tarun2244/">
     <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </p>
