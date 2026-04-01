@@ -80,16 +80,14 @@ I'm a passionate Software Developer and AI/ML Engineer with a strong foundation 
 
 ---
 
-## 📊 LeetCode Stats
-
+📊 LeetCode Stats
 <p align="center">
-  <a href="https://leetcode.com/u/tarun2244/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/tarun2244">
+    <img src="https://leetcard.jacoblin.cool/tarun2244?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/700%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/365%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   <img src="https://img.shields.io/badge/500%20Day%20Streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </p>
 
